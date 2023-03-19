@@ -1,8 +1,0 @@
-C:\Users\Kosme\OneDrive\Masaüstü\C#\006\006\bin\Debug\006.exe.config
-C:\Users\Kosme\OneDrive\Masaüstü\C#\006\006\bin\Debug\006.exe
-C:\Users\Kosme\OneDrive\Masaüstü\C#\006\006\bin\Debug\006.pdb
-C:\Users\Kosme\OneDrive\Masaüstü\C#\006\006\obj\Debug\006.csproj.AssemblyReference.cache
-C:\Users\Kosme\OneDrive\Masaüstü\C#\006\006\obj\Debug\006.csproj.SuggestedBindingRedirects.cache
-C:\Users\Kosme\OneDrive\Masaüstü\C#\006\006\obj\Debug\006.csproj.CoreCompileInputs.cache
-C:\Users\Kosme\OneDrive\Masaüstü\C#\006\006\obj\Debug\006.exe
-C:\Users\Kosme\OneDrive\Masaüstü\C#\006\006\obj\Debug\006.pdb
